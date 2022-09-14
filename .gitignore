@@ -35,3 +35,6 @@ out/
 
 ### VS Code ###
 .vscode/
+/h2.jar
+/meeting-memo.mv.db
+/src/main/resources/application-local.properties
